@@ -8,8 +8,9 @@
 
 ## 👋 About Me
 
-I am a motivated Data Analyst with hands-on experience in data analysis, GIS mapping, and IT infrastructure support.  
-I enjoy working with data to find patterns, build dashboards, and create meaningful insights using Python, SQL, Power BI, and Excel.
+I am a motivated data analytics learner with hands-on practice in data analysis, GIS mapping, and IT infrastructure support.  
+I enjoy working with data to identify patterns, perform analysis, and build clear dashboards using Python, SQL, Power BI, and Excel.  
+Through continuous learning and practical projects, I focus on improving my analytical and problem-solving skills.
 
 ---
 
