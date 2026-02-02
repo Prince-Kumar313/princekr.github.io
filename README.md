@@ -57,10 +57,10 @@ Through continuous learning and practical projects, I focus on improving my anal
 
 ### **Tata Consultancy Services – ITIS & Networking Intern**  
 *December 2024 – December 2025*
-- Hands-on experience in system administration and networking  
-- User management and software installation  
-- Basic network monitoring and troubleshooting  
-
+- Assisted in data cleaning and preprocessing using Python (Pandas) and Excel. 
+- Performed EDA and created visualizations using Matplotlib/Seaborn.  
+- Built basic dashboards and reports in Power BI for business insights.  
+- Worked on AI job market trend analysis including salary and skill demand.
 ---
 
 ## 📂 Projects
