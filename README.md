@@ -55,7 +55,7 @@ Through continuous learning and practical projects, I focus on improving my anal
 - Managed geospatial data for accuracy and efficiency  
 - Used Python to automate GIS workflows  
 
-### **Tata Consultancy Services – ITIS & Networking Intern**  
+### **Tata Consultancy Services – Data Analyst**  
 *December 2024 – December 2025*
 - Assisted in data cleaning and preprocessing using Python (Pandas) and Excel. 
 - Performed EDA and created visualizations using Matplotlib/Seaborn.  
